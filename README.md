@@ -81,7 +81,7 @@ To run this project locally, follow these steps:
 
 ## Clone the repository:
 
-git clone https://github.com/yourusername/spam-sms-detection.git
+git clone https://github.com/lav2024/spam-sms-detection.git
 
 ## Install required dependencies:
 

@@ -1,4 +1,4 @@
-# MADE-PROJECT
+# MADE(MAIL DETECTION)-PROJECT
 
 ## Spam SMS Detection (Spam or Ham Classification)
 
@@ -81,15 +81,11 @@ To run this project locally, follow these steps:
 
 ## Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/spam-sms-detection.git
+
 ## Install required dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 
 ## Usage
@@ -97,9 +93,6 @@ Once you’ve installed the dependencies, you can run the notebook in Jupyter to
 
 ## Launch Jupyter Notebook:
 
-bash
-Copy
-Edit
 jupyter notebook
 Open Spam_SMS_Detection.ipynb and run the cells.
 
